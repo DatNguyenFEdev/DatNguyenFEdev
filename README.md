@@ -1,7 +1,15 @@
 
 <h1 align="center"&text_color=DC143C>Hello everyone</h1>
 <h2 align="center">I'm a Front End developer </h2>
-<img align="center" src="https://www.canva.com/design/DAEpCTAVUVA/mwApOVv3WS6Ka4oZkz2P3g/view" height="100%" width="100%">
+<!-- <img align="center" src="https://www.canva.com/design/DAEpCTAVUVA/mwApOVv3WS6Ka4oZkz2P3g/view" height="100%" width="100%"> -->
+<div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?embed">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?utm_content=DAEpCTAVUVA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">to DAtnguyen</a> của Dat Tran
 
 <hr>
 <h3 align="left" >My Profile </h3>
