@@ -2,9 +2,6 @@
 <h1 align="center"&text_color=DC143C>Hello everyone</h1>
 <h2 align="center">I'm a Front End developer </h2>
 <img align="center" src="https://www.canva.com/design/DAEpCTAVUVA/pXG5Re0r2YsVu41apbOzRQ/view?utm_content=DAEpCTAVUVA&utm_campaign=designshare&utm_medium=link&utm_source=viewer" height="100%" width="100%">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?embed">
-  </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?utm_content=DAEpCTAVUVA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">to DAtnguyen</a> của Dat Tran
 
