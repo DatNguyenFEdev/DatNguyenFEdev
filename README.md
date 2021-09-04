@@ -1,8 +1,7 @@
 
 <h1 align="center"&text_color=DC143C>Hello everyone</h1>
 <h2 align="center">I'm a Front End developer </h2>
-<img align="center" src="https://www.canva.com/design/DAEpCTAVUVA/pXG5Re0r2YsVu41apbOzRQ/view?utm_content=DAEpCTAVUVA&utm_campaign=designshare&utm_medium=link&utm_source=viewer" height="100%" width="100%">
-</div>
+<img align="center" src="https://document-export.canva.com/AVUVA/DAEpCTAVUVA/8/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20210903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210903T195433Z&X-Amz-Expires=55547&X-Amz-Signature=99b9916f07b8b79451d00f16cc97ccc90ab133c9b67317d2359ce9c9b04af32d&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2004%20Sep%202021%2011%3A20%3A20%20GMT" height="100%" width="100%">
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?utm_content=DAEpCTAVUVA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">to DAtnguyen</a> của Dat Tran
 
 <hr>
