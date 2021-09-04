@@ -1,7 +1,7 @@
 
 <h1 align="center"&text_color=DC143C>Hello everyone</h1>
 <h2 align="center">I'm a Front End developer </h2>
-<img align="center" src="https://document-export.canva.com/OlBjA/DAEoj-OlBjA/3/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20210829%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210829T223658Z&X-Amz-Expires=38626&X-Amz-Signature=e66235098d9716c0fd2b219e24ffe417179978c45ee1c021d91aa4e9e160166f&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2030%20Aug%202021%2009%3A20%3A44%20GMT" height="100%" width="100%">
+<img align="center" src="https://www.canva.com/design/DAEpCTAVUVA/mwApOVv3WS6Ka4oZkz2P3g/view" height="100%" width="100%">
 
 <hr>
 <h3 align="left" >My Profile </h3>
