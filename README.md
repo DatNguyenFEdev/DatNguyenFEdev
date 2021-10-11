@@ -1,7 +1,7 @@
 
 <h1 align="center"&text_color=DC143C>Hello everyone</h1>
 <h2 align="center">I'm a Front End developer </h2>
-<img align="center" src="https://images.pexels.com/photos/3826676/pexels-photo-3826676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="100%" width="100%">
+<!-- <img align="center" src="https://images.pexels.com/photos/3826676/pexels-photo-3826676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" height="100%" width="100%"> -->
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?utm_content=DAEpCTAVUVA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">to Datnguyen</a> của Dat Tran
 
 <hr>
