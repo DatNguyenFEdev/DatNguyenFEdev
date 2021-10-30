@@ -35,9 +35,12 @@ I am currenty working on Vue Project.<br>
 </br>
 <h3 align="left"> Project </h3>
 <br>
-### https://nguyenduydat.netlify.app/
-### http://ananasclone.lovestoblog.com/
-### https://netflixclone10.netlify.app/
+1:  https://nguyenduydat.netlify.app/
+</br>
+2:  http://ananasclone.lovestoblog.com/
+</br>
+3:  https://netflixclone10.netlify.app/
+</br>
 Follow me and give me 1 star⭐!
 <br>
 <br>
