@@ -33,6 +33,7 @@ I am currenty working on Vue Project.<br>
 </br>
 5️⃣ Library UI
 </br>
+<hr>
 <h3 align="left"> Project </h3>
 <br>
 1:  https://nguyenduydat.netlify.app/
@@ -40,6 +41,7 @@ I am currenty working on Vue Project.<br>
 2:  http://ananasclone.lovestoblog.com/
 </br>
 3:  https://netflixclone10.netlify.app/
+</br>
 </br>
 Follow me and give me 1 star⭐!
 <br>
