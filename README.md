@@ -21,16 +21,19 @@ I am currenty working on Vue Project.<br>
 
 <h3 align="left"> Language & Skills </h3>
 <br>
-1️⃣ HTML5, CSS3
+1️. HTML5, CSS3
 </br>
-2️⃣ JavaScript
+2️. JavaScript
 </br>
-3️⃣ VueJs
+3️. VueJs
 </br>
-4️⃣ Photoshop, Figma
+4. ReactJS
 </br>
-5️⃣ Library UI
+5. Photoshop, Figma
 </br>
+6. Library UI
+</br>
+
 <hr>
 <h3 align="left"> Project </h3>
 <br>
