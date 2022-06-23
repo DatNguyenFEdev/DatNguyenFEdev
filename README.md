@@ -16,7 +16,7 @@ I am currenty working on Vue Project.<br>
 
 #### 🔥 Instagrams: https://www.instagram.com/dat_nguyen_01/
 
-#### 📞 Phone: 0386401192
+#### 📞 Phone: 0386401***
 <hr>
 
 <h3 align="left"> Language & Skills </h3>
