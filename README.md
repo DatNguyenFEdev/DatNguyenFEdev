@@ -19,7 +19,7 @@ I am currenty working on Vue Project.<br>
 
 <h3 align="left"> Language & Skills </h3>
 <br>
-1️. HTML5, CSS3
+1️. HTML5, CSS3, LESS
 </br>
 2️. JavaScript
 </br>
@@ -27,9 +27,13 @@ I am currenty working on Vue Project.<br>
 </br>
 4. ReactJS
 </br>
-5. Photoshop, Figma
+5. AlpineJS
 </br>
-6. Library UI
+6. Magento 2
+</br>
+7. Photoshop, Figma
+</br>
+8. Library UI
 </br>
 
 <hr>
