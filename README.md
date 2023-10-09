@@ -1,5 +1,5 @@
 
-<h1 align="center"&text_color=DC143C>Hello everyone</h1>
+<!-- <h1 align="center"&text_color=DC143C>Hello everyone</h1> -->
 <!-- <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?utm_content=DAEpCTAVUVA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">to Datnguyen</a> của Dat Tran -->
 <h3 align="left" >My Profile </h3>
 # Hello there! 👋🏻 I am Dat Nguyen! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
