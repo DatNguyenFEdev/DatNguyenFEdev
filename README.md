@@ -1,55 +1,47 @@
+<h1 align="center">Welcome to My GitHub Profile 👋</h1>
 
-<!-- <h1 align="center"&text_color=DC143C>Hello everyone</h1> -->
-<!-- <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEpCTAVUVA&#x2F;view?utm_content=DAEpCTAVUVA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">to Datnguyen</a> của Dat Tran -->
-<h1 align="left" >My Profile </h1>
-<h3>
-  # Hello there! 👋🏻 I am Dat Nguyen! <a href=https://www.linkedin.com/in/dat-nguyen-duy/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>  <img src="https://komarev.com/ghpvc/?username=DatNguyenFEdev&color=blue&style=plastic"><img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-</h3>
-I am Dat 🙋🏻‍♂️, Self taught front end developer, Web Designer.<br>
-I am looking to collaborate with others on Vuejs.<br>
-I am learning and contributing more to my projects.<br>
-I am currenty working on Vue Project.<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dat-nguyen-duy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DatNguyenFEdev&color=blue&style=plastic">
+</p>
 
-#### 💬 Email: duydatvv@gmail.com
+---
 
-#### 👍 Facebook: https://www.facebook.com/DAT2001DAT2001/
+### 👨🏻‍💻 About Me
+I'm Dat Nguyen, a passionate **Frontend Developer** with over **3 years of experience** working full-time in the tech industry. My focus is on crafting high-quality, user-friendly web applications using modern technologies. I am currently expanding my expertise in **Shopify development** and **blockchain integration**.
 
-#### 🔥 Instagrams: https://www.instagram.com/nddat_21
+- 🌱 Actively improving my skills in **Remix** and **Node.js**.
+- 🚀 Exploring opportunities in **Vue.js** and **React.js** projects.
+- 👥 Always open to **collaborate** on exciting projects, especially in **Shopify** and **blockchain**.
 
-#### 📞 Phone: 0386401***
-<hr>
+---
 
-<h3 align="left"> Language & Skills </h3>
-<br>
-1️. HTML5, CSS3, LESS
-</br>
-2️. JavaScript
-</br>
-3️. VueJs
-</br>
-4. ReactJS
-</br>
-5. AlpineJS
-</br>
-6. Magento 2
-</br>
-7. Photoshop, Figma
-</br>
-8. Library UI
-</br>
+### 🔧 Languages & Technologies
+- **Frontend**: HTML5, CSS3 (LESS, SASS), JavaScript, React, Vue.js, Remix, Alpine.js
+- **Backend**: Node.js
+- **eCommerce**: Shopify, Magento 2 (Hyva)
+- **Other**: GitHub, Git, Blockchain basics
+- **Design**: Photoshop, Figma
 
-<hr>
-<h3 align="left"> Project </h3>
-<br>
-1:  https://nguyenduydat.netlify.app/
-</br>
-2:  http://ananasclone.lovestoblog.com/
-</br>
-3:  https://netflixclone10.netlify.app/
-</br>
-</br>
-Follow me and give me 1 star⭐!
-<br>
-<br>
-Thankyou very much🎆
+---
 
+### 📂 Projects
+Here are some projects showcasing my skills and experience:
+
+1. **Personal Portfolio** - [nguyenduydat.netlify.app](https://nguyenduydat.netlify.app/)
+2. **Ananas Clone** - [ananasclone.lovestoblog.com](http://ananasclone.lovestoblog.com/)
+3. **Netflix Clone** - [netflixclone10.netlify.app](https://netflixclone10.netlify.app/)
+
+---
+
+### 📫 Connect with Me
+- **Email**: duydatvv@gmail.com
+- **Facebook**: [Dat Nguyen](https://www.facebook.com/DAT2001DAT2001/)
+- **Instagram**: [@nddat_21](https://www.instagram.com/nddat_21/)
+- **Phone**: 0386401***
+
+---
+
+> 🌟 *If you find my work helpful, please consider giving a star! Thank you for visiting my profile!* 🎉
