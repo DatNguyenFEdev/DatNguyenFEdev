@@ -31,7 +31,7 @@ I'm Dat Nguyen, a passionate **Frontend Developer** with over **3 years of exper
 Here are some projects showcasing my skills and experience:
 
 1. **Personal Portfolio** - [nguyenduydat.netlify.app](https://nguyenduydat.netlify.app/)
-2. **Ananas Clone** - [[ananasclone.lovestoblog.com](http://ananasclone.lovestoblog.com/)](https://datnguyenfedev.github.io/Website_Ananas_Clone/)
+2. **Ananas Clone** - [Website_Ananas_Clone](https://datnguyenfedev.github.io/Website_Ananas_Clone/)
 3. **Netflix Clone** - [netflixclone10.netlify.app](https://netflixclone10.netlify.app/)
 
 ---
