@@ -37,9 +37,9 @@ Here are some projects showcasing my skills and experience:
 ---
 
 ### 📫 Connect with Me
-- **Email**: duydatvv@gmail.com
-- **Facebook**: [Dat Nguyen](https://www.facebook.com/DAT2001DAT2001/)
-- **Instagram**: [@nddat_21](https://www.instagram.com/nddat_21/)
+- **Email**: nddat.dev@gmail.com
+- **Facebook**: [Dat Nguyen](https://www.facebook.com/datnguyen99/)
+- **Instagram**: [@nddat_24](https://www.instagram.com/nddat_21/)
 - **Phone**: 0386401***
 
 ---
