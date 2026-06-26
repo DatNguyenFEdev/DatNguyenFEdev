@@ -9,21 +9,20 @@
 
 ---
 
-### 👨🏻‍💻 About Me
-I'm Dat Nguyen, a passionate **Frontend Developer** with over **3 years of experience** working full-time in the tech industry. My focus is on crafting high-quality, user-friendly web applications using modern technologies. I am currently expanding my expertise in **Shopify development** and **blockchain integration**.
+### 👨🏻‍💻 About Me Hi, 
+I'm **Dat Nguyen**, a **Frontend Developer** with **5+ years of professional experience** building modern web applications and eCommerce solutions. I specialize in **React**, **Remix**, **TypeScript**, **Shopify**, and **Magento 2 (Hyvä)**, with hands-on experience delivering scalable, high-performance applications for international clients. Beyond frontend development, I'm passionate about **Artificial Intelligence** and how it transforms software engineering. I actively leverage AI to accelerate development, automate workflows, generate high-quality UI, and build intelligent web applications powered by Large Language Models (LLMs). Currently, I'm expanding my expertise in **AI Engineering**, **System Design**, **Backend Development**, and **Cloud-native technologies** while building my own SaaS products and AI-powered solutions. - 🚀 Building scalable web applications with **React**, **Remix**, and **TypeScript** - 🤖 Developing **AI-powered applications** using LLM APIs, AI agents, and modern AI development tools - 🛍️ Experienced in **Shopify**, **Shopify Apps**, and **Magento 2 (Hyvä)** - ⚙️ Learning **System Design**, **Docker**, **Redis**, and scalable backend architecture - 🌍 Building personal products in **Travel Tech**, **Content Creator Tools**, and **AI SaaS** - 💡 Passionate about combining **AI** with web technologies to create smarter user experiences - 🤝 Open to collaborating on **Frontend**, **AI**, **Shopify**, and **Full-stack** projects ---
 
-- 🌱 Actively improving my skills in **Remix** and **Node.js**.
-- 🚀 Exploring opportunities in **Vue.js** and **React.js** projects.
-- 👥 Always open to **collaborate** on exciting projects, especially in **Shopify** and **blockchain**.
+## 🛠️ Languages & Technologies
 
----
-
-### 🔧 Languages & Technologies
-- **Frontend**: HTML5, CSS3 (LESS, SASS), JavaScript, React, Vue.js, Remix, Alpine.js
-- **Backend**: Node.js
-- **eCommerce**: Shopify, Magento 2 (Hyva)
-- **Other**: GitHub, Git, Blockchain basics
-- **Design**: Photoshop, Figma
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | HTML5, CSS3 (SASS, LESS), JavaScript (ES6+), TypeScript, React, Remix, Vue.js, Alpine.js |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Database** | PostgreSQL, Prisma ORM, Supabase |
+| **eCommerce** | Shopify, Shopify App Development, Shopify Hydrogen, Magento 2 (Hyvä Theme) |
+| **DevOps & Tools** | Git, GitHub, Docker, Vercel, Postman |
+| **Design** | Figma, Adobe Photoshop |
+| **Other** | Blockchain Basics, AI-Assisted Development |
 
 ---
 
